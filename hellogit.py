@@ -1,1 +1,1 @@
-print("Hello GitHub remoto!")
+print("Hello GitHub remoto con cambios de colaborador!")
